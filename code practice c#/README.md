@@ -1,6 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{I wanted to learn how to do some simple IO in C# because I spend most of my time using unitys librarys.}
 
 {This code basically just prints then prompts then prints the input with a new output.}
 
