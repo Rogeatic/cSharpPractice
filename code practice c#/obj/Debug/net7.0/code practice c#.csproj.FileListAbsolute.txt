@@ -1,0 +1,15 @@
+/Users/loganbell/Documents/code practice c#/bin/Debug/net7.0/code practice c#
+/Users/loganbell/Documents/code practice c#/bin/Debug/net7.0/code practice c#.deps.json
+/Users/loganbell/Documents/code practice c#/bin/Debug/net7.0/code practice c#.runtimeconfig.json
+/Users/loganbell/Documents/code practice c#/bin/Debug/net7.0/code practice c#.dll
+/Users/loganbell/Documents/code practice c#/bin/Debug/net7.0/code practice c#.pdb
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/code practice c#.csproj.AssemblyReference.cache
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/code practice c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/code practice c#.AssemblyInfoInputs.cache
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/code practice c#.AssemblyInfo.cs
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/code practice c#.csproj.CoreCompileInputs.cache
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/code practice c#.dll
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/refint/code practice c#.dll
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/code practice c#.pdb
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/code practice c#.genruntimeconfig.cache
+/Users/loganbell/Documents/code practice c#/obj/Debug/net7.0/ref/code practice c#.dll
